@@ -24,7 +24,7 @@
 - 日漫 支持Web
 
 6.樱花动漫
-- yhdm02.com
+- http://yhdm02.com/
 - 日漫/国漫 支持Web
 
 7.AGE动漫
