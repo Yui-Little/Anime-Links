@@ -2,11 +2,12 @@
 
 这是一个公益性分享动漫网站的项目，主要为想观看动漫的人提供便利服务。
 ![main](https://github.com/user-attachments/assets/67941599-27c6-4213-9a2a-6aa04fd54e35)
-## 网站链接
-1.
-- 特性1
+## 网站链接(数字不分排名)
+1.Meofun&嗷呜动漫
+- [特性1](https://www.moefun.net/)
+日漫 支持Web、Android、IPad三端
 2.
-- 特性2
+- [特性1](https://tv.pilipili6.top/)
 
 ## 项目贡献名单
 
