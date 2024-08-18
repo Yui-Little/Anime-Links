@@ -5,11 +5,11 @@
 ## 网站链接(数字不分排名)
 1.Meofun&嗷呜动漫
 - https://www.moefun.net/
-日漫 支持Web、Android、IPad
+- 日漫 支持Web、Android、IPad
 
 2.pilipili&P站
 - https://tv.pilipili6.top/
-日漫/国漫 支持Web、Android
+- 日漫/国漫 支持Web、Android
 
 ## 项目贡献名单
 
