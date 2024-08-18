@@ -7,17 +7,17 @@
 - https://www.moefun.net/
 - 日漫 支持Web、Android、IPad
 
-2.pilipili&P站
+2.pilipili
 - https://tv.pilipili6.top/
 - 日漫/国漫 支持Web、Android
 
-3.
--
--
+3.MX动漫
+- https://www.mxdm.xyz/
+- 日漫/国漫 支持Web、Android
 
-4.
--
--
+4.heibai弹幕
+- https://heibai2.com/
+- 日漫/国漫 支持Windows、Android
 
 ## 项目贡献名单
 
