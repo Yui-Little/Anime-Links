@@ -19,6 +19,17 @@
 - https://heibai2.com/
 - 日漫/国漫 支持Windows、Android
 
+5.萌番动漫
+- https://www.mfan.tv/
+- 日漫 支持Web
+
+6.樱花动漫
+- yhdm02.com
+- 日漫/国漫 支持Web
+
+7.AGE动漫
+- https://agedm1.com/
+- 日漫/国漫 支持Web
 ## 项目贡献名单
 
 - 该处主要为推荐或反馈的人留下一个个性签名
