@@ -4,10 +4,10 @@
 ![main](https://github.com/user-attachments/assets/67941599-27c6-4213-9a2a-6aa04fd54e35)
 ## 网站链接(数字不分排名)
 1.Meofun&嗷呜动漫
-- [特性1](https://www.moefun.net/)
+- https://www.moefun.net/
 日漫 支持Web、Android、IPad三端
-2.
-- [特性1](https://tv.pilipili6.top/)
+2.pilipili
+- https://tv.pilipili6.top/
 
 ## 项目贡献名单
 
