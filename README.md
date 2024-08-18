@@ -3,6 +3,7 @@
 这是一个公益性分享动漫网站的项目，主要为想观看动漫的人提供便利服务。
 
 ## 特性
+![main](https://github.com/user-attachments/assets/67941599-27c6-4213-9a2a-6aa04fd54e35)
 
 - 特性1
 - 特性2
