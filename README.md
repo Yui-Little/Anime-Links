@@ -36,6 +36,7 @@
 
 ## 推荐与反馈
 
-可通过邮箱发送至1533399919@qq.com提出，望能写出优缺点。
+可通过![image](https://github.com/user-attachments/assets/f1e6768c-6963-4137-b52f-a54af4cbc107)lssues/议题留言
+
 
 - 一切网站来源于互联网！
